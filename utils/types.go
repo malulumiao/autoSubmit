@@ -1,4 +1,4 @@
-package utils
+didididiididiidididiididipackage utils
 
 type OauthLoginResp struct {
 	Success bool   `json:"success"`
